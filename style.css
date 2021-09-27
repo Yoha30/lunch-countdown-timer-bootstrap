@@ -1,0 +1,66 @@
+.bg-main {
+    background: hsl(234, 17%, 12%);
+    background-image: url("images/bg-stars.svg");
+}
+
+.bg-footer {
+    background-image: url("images/pattern-hills.svg");
+    position: absolute;
+    bottom: 0;
+    background-size: 100%;
+    width: 100%;
+    height: 25%;
+}
+
+.bg-cards {
+    background-image: linear-gradient(hsl(235, 16%, 14%), #2C2C44);
+    background-size: 50% 50%;
+}
+
+.letter-space {
+    letter-spacing: 0.5rem;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.card {
+    width: 8rem;
+    height: 8rem;
+    color: hsl(345, 95%, 68%);
+    font-size: 3rem;
+    line-height: 1;
+    padding-top: 2.25rem;
+    text-align: center;
+}
+
+.main-text {
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.4rem;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.date {
+    color: #2C2C44;
+    padding-top: 2rem;
+    text-align: center;
+}
+.mt-10{
+margin-top: 10rem;
+}
+.mb-5{
+    margin-bottom: 5rem;
+}
+.pl-2{
+    padding-left: 2rem;
+}
