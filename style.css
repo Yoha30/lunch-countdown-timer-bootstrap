@@ -30,6 +30,8 @@
     line-height: 1;
     padding-top: 2.25rem;
     text-align: center;
+    border-bottom-left-radius:25px ;
+
 }
 
 .main-text {
